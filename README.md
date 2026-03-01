@@ -40,4 +40,4 @@ The implementation is evaluated using multiple tridiagonal matrices with differe
 
 Detailed mathematical description and experimental results:
 
-👉 [Cholesky–Banachiewicz Report (PDF)](report/Sprawozdanie_projekt2.pdf)
+[Cholesky–Banachiewicz Report (PDF)](report/Sprawozdanie_projekt2.pdf)
